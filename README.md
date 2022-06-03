@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>Currently pursuing a Master’s Degree in Artificial Intelligence and Machine Learning at IIIT Banglore and LJMU.
 <br>
- #### Everything is data and data is everything..!
+ <h3> Everything is data and data is everything..! </h3>
   This quote keeps alive the curiousity withing me to understand data.
   I describe myself as result-oriented, customer-focused, data-enthusiast with a deep interest in data analytics and machine learning. I am interested in developing machine learning models and visualizing data to solve real-world problems. </p>
 <hr>
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <li>👨‍💻 I'm a <em>Data Science</em> student at <strong>IIIT Banglore and LJMU </strong> looking for full-time opportunities.</li>
 <li>☁  Currently working as <em> Network Administrator</em> at <strong> Tata Consultancy Services, India </strong> for 3 years.</li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
-<li>🌐 You can access my projects here on GitHub
 
 
 <hr>
