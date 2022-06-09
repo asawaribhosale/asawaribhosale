@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Currently pursuing a Master’s Degree in Artificial Intelligence and Machine Learning at IIIT Banglore and LJMU.
+<p>Currently pursuing a Master’s of Science Degree in Artificial Intelligence and Machine Learning at IIIT Banglore and Liverpool John Moores University.
 <br>
  <h3> Everything is data and data is everything..! </h3>
   This quote keeps alive the curiousity withing me to understand data.
-  I describe myself as result-oriented, customer-focused, data-enthusiast with a deep interest in data analytics and machine learning. I am interested in developing machine learning models and visualizing data to solve real-world problems. </p>
+  I describe myself as result-oriented, customer-focused, data-enthusiast with a deep interest in data analytics, machine learning and artificail intelligence. I am interested in developing machine learning models and visualizing data to solve real-world problems. </p>
 <hr>
 
 <h3>About me 🙋</h3>
