@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3>About me 🙋</h3>
 <ul>
-<li>👨‍💻 I'm a <em>Data Science</em> student at <strong>IIIT Banglore and LJMU </strong> looking for full-time opportunities.</li>
+<li>👨‍💻 Currently pursiung <em>MS in Machine Learning and Artificial Intelligence </em> student at <strong>IIIT Banglore and LJMU </strong> looking for full-time opportunities.</li>
 <li>☁  Currently working as <em> Network Administrator</em> at <strong> Tata Consultancy Services, India </strong> for 3 years.</li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
 
